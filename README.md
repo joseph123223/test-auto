@@ -1,0 +1,2 @@
+# test-auto
+For Camcanner
